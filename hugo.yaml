@@ -1,0 +1,10 @@
+baseURL: http://juwy.nl/
+languageCode: en-us
+title: My New Hugo Site
+enableRobotsTXT: true
+theme: hugo-scroll
+
+Params:
+  hidedesignbyline: true
+  copyright: Copyrights - QQR
+  showYear: true
