@@ -6,11 +6,11 @@ header_image: "images/cover2.jpg"
 header_use_video: false
 #
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
-header_logo: "images/noun-vinyl-record-square-w.png"
+header_logo: "images/logo.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "QQ Records"
-header_subheadline: "<b>Royalty-free</b> Christmas Music"
+header_headline: "Tandarts praktijk"
+header_subheadline: "<b>Communicatie</b> is de kracht"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

@@ -1,10 +1,12 @@
-baseURL: http://juwy.nl/
+baseURL: https://ellaelladesign.nl/tandarts
 languageCode: en-us
-title: My New Hugo Site
+title: Tandarts
 enableRobotsTXT: true
-theme: hugo-scroll
+theme: 
+  - hugo-shortcode-roneo-collection
+  - hugo-scroll
 
 Params:
   hidedesignbyline: true
-  copyright: Copyrights - QQR
+  copyright: Copyrights - Tiana
   showYear: true
