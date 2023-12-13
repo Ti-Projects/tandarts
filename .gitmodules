@@ -1,6 +1,4 @@
 [submodule "themes/themes/hugo-scroll"]
 	path = themes/hugo-scroll
 	url = https://github.com/zjedi/hugo-scroll.git
-[submodule "themes/hugo-shortcode-roneo-collection"]
-	path = themes/hugo-shortcode-roneo-collection
-	url = https://gitlab.com/Roneo/hugo-shortcode-roneo-collection.git
+
